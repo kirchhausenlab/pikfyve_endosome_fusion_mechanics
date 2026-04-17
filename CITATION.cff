@@ -1,0 +1,16 @@
+
+cff-version: 1.2.0
+title: "Code for: How endosomal PIKfyve inhibition prevents viral membrane fusion and entry"
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Chow
+    given-names: N
+  - family-names: Scanavachi
+    given-names: G
+  - family-names: Saminathan
+    given-names: A
+  - family-names: Kirchhausen
+    given-names: T
+version: 1.0
+date-released: 2026-04-17
+repository-code: "https://github.com/kirchhausenlab/pikfyve-inhibition-viral-fusion"
